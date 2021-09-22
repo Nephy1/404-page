@@ -83,11 +83,14 @@ img {
     display: flex;
     justify-content: center;
     border-color: red;
+    color: blue;
+    padding: 5px;
     border-style: ridge;
     max-width: 10ch;
     border-radius: 5px;
     text-decoration: none;
     box-shadow: 5px 5px 5px rgb(255, 0, 0);
+    background-color:grey;
 }
 
 .btn:hover {
